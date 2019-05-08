@@ -1,6 +1,6 @@
-a = 0
-b = 11
-step = 2
+a = 20
+b = 50
+step = 10
 # for i in range(a, b+1):
 # 	if i % 2 == 0:
 # 		print(i)
